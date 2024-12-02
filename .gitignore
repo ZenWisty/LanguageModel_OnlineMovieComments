@@ -1,3 +1,7 @@
+# data too large, recommend download from stanford dataset.
+# https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
