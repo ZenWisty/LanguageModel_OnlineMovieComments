@@ -18,4 +18,10 @@ Training Accuracy: 50.01%<br>
 Validation Accuracy: 50.14%<br>
 Test Accuracy: 49.91%<br>
 <br>
+训练过程：1 epoch
+<br>
 经过微调后的结果：
+Training accuracy: 89.85%
+Validation accuracy: 89.44%
+Test accuracy: 88.49%
+<br>
