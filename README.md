@@ -18,10 +18,22 @@ Training Accuracy: 50.01%<br>
 Validation Accuracy: 50.14%<br>
 Test Accuracy: 49.91%<br>
 <br>
-训练过程：1 epoch
+训练过程：2 epoch (train.py)
 <br>
-经过微调后的结果：
-Training accuracy: 89.85%
-Validation accuracy: 89.44%
-Test accuracy: 88.49%
+经过微调1epoch后的结果：<br>
+Training accuracy: 89.85%<br>
+Validation accuracy: 89.44%<br>
+Test accuracy: 88.49%<br>
 <br>
+
+#### LORA Finetune
+实验任务：同上, 只是尝试使用LORA来finetune验证效果。<br>
+<br>
+训练过程：2 epoch (train_withLORA.py)
+<br>
+经过微调1epoch后的结果：<br>
+Training accuracy: 94.98% <br>
+Validation accuracy: 91.00% <br>
+Test accuracy: 90.79% <br>
+<br>
+![loss](./loss.png "loss")
